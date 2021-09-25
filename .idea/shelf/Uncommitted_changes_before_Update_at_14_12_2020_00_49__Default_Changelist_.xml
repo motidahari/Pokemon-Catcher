@@ -1,0 +1,104 @@
+<changelist name="Uncommitted_changes_before_Update_at_14_12_2020_00_49_[Default_Changelist]" date="1607899958963" recycled="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_12_2020_00_49_[Default_Changelist]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Update at 14/12/2020 00:49 [Default Changelist]" />
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/OOP-EX2-Weighted-directed-graph/api/dw_graph_algorithms.class" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/OOP-EX2-Weighted-directed-graph/api/DWGraph_Algo$NodesComparator.class" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/test/OOP-EX2-Weighted-directed-graph/api/DWGraph_AlgoTest.class" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/OOP-EX2-Weighted-directed-graph/gameClient/util/Range2D.class" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/OOP-EX2-Weighted-directed-graph/gameClient/util/Point3D.class" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/OOP-EX2-Weighted-directed-graph/gameClient/util/Range.class" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/OOP-EX2-Weighted-directed-graph/gameClient/util/Range2Range.class" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/OOP-EX2-Weighted-directed-graph/api/geo_location.class" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/OOP-EX2-Weighted-directed-graph/api/edge_location.class" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/OOP-EX2-Weighted-directed-graph/api/NodeData.class" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/OOP-EX2-Weighted-directed-graph/api/node_data.class" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/OOP-EX2-Weighted-directed-graph/api/edge_data.class" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/OOP-EX2-Weighted-directed-graph/api/game_service.class" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/OOP-EX2-Weighted-directed-graph/api/EdgeLocation.class" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/OOP-EX2-Weighted-directed-graph/api/DWGraph_Algo.class" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/OOP-EX2-Weighted-directed-graph/api/DWGraph_DS.class" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/OOP-EX2-Weighted-directed-graph/api/EdgeData.class" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/OOP-EX2-Weighted-directed-graph/api/GeoLocation.class" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/OOP-EX2-Weighted-directed-graph/api/directed_weighted_graph.class" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/OOP-EX2-Weighted-directed-graph/gameClient/Ex2.class" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+</changelist>

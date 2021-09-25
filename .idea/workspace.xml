@@ -1,0 +1,670 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="EX2:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="43a3c328-e331-449e-8c09-8531bc82a99c" name="Default Changelist" comment="final version">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="MotiDahari" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SWAP_SIDES_IN_COMPARE_BRANCHES" value="true" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/libs/Ex2_Server_v0.13.jar!/Server/Game_Server.class" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1khX6mpIOg0wFcDjsaaiHkbsveY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JSON" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="enabled" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="api" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\happy\IdeaProjects\EX2" />
+      <recent name="C:\Users\happy\IdeaProjects\EX2\tests" />
+      <recent name="C:\Users\happy\IdeaProjects\EX2\libs" />
+      <recent name="C:\Users\happy\IdeaProjects\EX2\src\gameClient" />
+      <recent name="C:\Users\happy\IdeaProjects\EX2\data" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\happy\IdeaProjects\EX2\src\GUI\Icons" />
+      <recent name="C:\Users\happy\IdeaProjects\EX2\src\gameClient" />
+      <recent name="C:\Users\happy\IdeaProjects\EX2" />
+    </key>
+    <key name="MoveInnerDialog.RECENTS_KEY">
+      <recent name="api" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="api" />
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="api" />
+      <recent name="tests" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="GUI" />
+      <recent name="javaapplication1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Ex2">
+    <configuration name="Ex2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gameClient.Ex2" />
+      <module name="EX2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gameClient.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in EX2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EX2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DWGraph_DSTest.constructor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EX2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="api" />
+      <option name="MAIN_CLASS_NAME" value="api.DWGraph_DSTest" />
+      <option name="METHOD_NAME" value="constructor" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DWGraph_DSTest.getNode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EX2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="api" />
+      <option name="MAIN_CLASS_NAME" value="api.DWGraph_DSTest" />
+      <option name="METHOD_NAME" value="getNode" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="api in EX2" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="EX2" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="api" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gameClient in EX2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EX2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gameClient.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="gameClient" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex2_Server_v0.12.jar" type="JarApplication">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/libs/Ex2_Server_v0.12.jar" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Ex2" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Ex2" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Ex2" />
+      <item itemvalue="JAR Application.Ex2_Server_v0.12.jar" />
+      <item itemvalue="JUnit.api in EX2" />
+      <item itemvalue="JUnit.All in EX2" />
+      <item itemvalue="JUnit.DWGraph_DSTest.constructor" />
+      <item itemvalue="JUnit.DWGraph_DSTest.getNode" />
+      <item itemvalue="JUnit.gameClient in EX2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Ex2" />
+        <item itemvalue="JUnit.gameClient in EX2" />
+        <item itemvalue="JUnit.DWGraph_DSTest.getNode" />
+        <item itemvalue="JUnit.DWGraph_DSTest.constructor" />
+        <item itemvalue="JUnit.All in EX2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="43a3c328-e331-449e-8c09-8531bc82a99c" name="Default Changelist" comment="" />
+      <created>1606153624916</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606153624916</updated>
+      <workItem from="1606161203987" duration="19000" />
+      <workItem from="1606826127229" duration="830000" />
+      <workItem from="1606917369315" duration="666000" />
+      <workItem from="1606918339466" duration="2881000" />
+      <workItem from="1606921585549" duration="6520000" />
+      <workItem from="1607026011056" duration="3728000" />
+      <workItem from="1607068444472" duration="1465000" />
+      <workItem from="1607072412655" duration="8291000" />
+      <workItem from="1607205764477" duration="2087000" />
+      <workItem from="1607352464382" duration="42140000" />
+      <workItem from="1607450043112" duration="2843000" />
+      <workItem from="1607454600193" duration="6834000" />
+      <workItem from="1607498912138" duration="27981000" />
+      <workItem from="1607529570147" duration="1412000" />
+      <workItem from="1607531017510" duration="187000" />
+      <workItem from="1607531228405" duration="112000" />
+      <workItem from="1607531359251" duration="311000" />
+      <workItem from="1607531683680" duration="125000" />
+      <workItem from="1607531822557" duration="133000" />
+      <workItem from="1607531971665" duration="73000" />
+      <workItem from="1607532050770" duration="68366000" />
+      <workItem from="1607854837915" duration="8642000" />
+      <workItem from="1607869446707" duration="503000" />
+      <workItem from="1607879686061" duration="15401000" />
+      <workItem from="1607900904286" duration="1427000" />
+      <workItem from="1607902370284" duration="8462000" />
+      <workItem from="1607942422673" duration="239000" />
+      <workItem from="1607943400897" duration="21825000" />
+      <workItem from="1608032641787" duration="15880000" />
+      <workItem from="1608050875938" duration="283000" />
+      <workItem from="1608051219579" duration="16437000" />
+      <workItem from="1608277478968" duration="6711000" />
+      <workItem from="1608373338817" duration="2791000" />
+    </task>
+    <task id="LOCAL‎00001" summary=".">
+      <created>1606722293476</created>
+      <option name="number" value="LOCAL‎00001" />
+      <option name="presentableId" value="LOCAL‎00001" />
+      <updated>1606722293476</updated>
+    </task>
+    <task id="LOCAL‎00002" summary=".">
+      <created>1606722558081</created>
+      <option name="number" value="LOCAL‎00002" />
+      <option name="presentableId" value="LOCAL‎00002" />
+      <updated>1606722558081</updated>
+    </task>
+    <task id="LOCAL‎00003" summary=".">
+      <created>1606723636592</created>
+      <option name="number" value="LOCAL‎00003" />
+      <option name="presentableId" value="LOCAL‎00003" />
+      <updated>1606723636592</updated>
+    </task>
+    <task id="LOCAL‎00004" summary=".">
+      <created>1606725731389</created>
+      <option name="number" value="LOCAL‎00004" />
+      <option name="presentableId" value="LOCAL‎00004" />
+      <updated>1606725731389</updated>
+    </task>
+    <task id="LOCAL‎00005" summary=".">
+      <created>1606731362853</created>
+      <option name="number" value="LOCAL‎00005" />
+      <option name="presentableId" value="LOCAL‎00005" />
+      <updated>1606731362854</updated>
+    </task>
+    <task id="LOCAL‎00006" summary="added shortestPathDist">
+      <created>1606731554802</created>
+      <option name="number" value="LOCAL‎00006" />
+      <option name="presentableId" value="LOCAL‎00006" />
+      <updated>1606731554802</updated>
+    </task>
+    <task id="LOCAL‎00007" summary="edited shortestPathDist">
+      <created>1606732288306</created>
+      <option name="number" value="LOCAL‎00007" />
+      <option name="presentableId" value="LOCAL‎00007" />
+      <updated>1606732288306</updated>
+    </task>
+    <task id="LOCAL‎00008" summary="shortestPath list">
+      <created>1606739430477</created>
+      <option name="number" value="LOCAL‎00008" />
+      <option name="presentableId" value="LOCAL‎00008" />
+      <updated>1606739430478</updated>
+    </task>
+    <task id="LOCAL‎00009" summary="shortestPath list">
+      <created>1606740222864</created>
+      <option name="number" value="LOCAL‎00009" />
+      <option name="presentableId" value="LOCAL‎00009" />
+      <updated>1606740222865</updated>
+    </task>
+    <task id="LOCAL‎00010" summary="start Ex2">
+      <created>1607370311160</created>
+      <option name="number" value="LOCAL‎00010" />
+      <option name="presentableId" value="LOCAL‎00010" />
+      <updated>1607370311160</updated>
+    </task>
+    <task id="LOCAL‎00011" summary="made Gui">
+      <created>1607457544569</created>
+      <option name="number" value="LOCAL‎00011" />
+      <option name="presentableId" value="LOCAL‎00011" />
+      <updated>1607457544569</updated>
+    </task>
+    <task id="LOCAL‎00012" summary="made Gui">
+      <created>1607457892372</created>
+      <option name="number" value="LOCAL‎00012" />
+      <option name="presentableId" value="LOCAL‎00012" />
+      <updated>1607457892372</updated>
+    </task>
+    <task id="LOCAL‎00013" summary="small changes">
+      <created>1607501321512</created>
+      <option name="number" value="LOCAL‎00013" />
+      <option name="presentableId" value="LOCAL‎00013" />
+      <updated>1607501321513</updated>
+    </task>
+    <task id="LOCAL‎00014" summary="choose next">
+      <created>1607528674023</created>
+      <option name="number" value="LOCAL‎00014" />
+      <option name="presentableId" value="LOCAL‎00014" />
+      <updated>1607528674023</updated>
+    </task>
+    <task id="LOCAL‎00015" summary="choose next">
+      <created>1607528865468</created>
+      <option name="number" value="LOCAL‎00015" />
+      <option name="presentableId" value="LOCAL‎00015" />
+      <updated>1607528865468</updated>
+    </task>
+    <task id="LOCAL‎00016" summary="1">
+      <created>1607542233136</created>
+      <option name="number" value="LOCAL‎00016" />
+      <option name="presentableId" value="LOCAL‎00016" />
+      <updated>1607542233137</updated>
+    </task>
+    <task id="LOCAL‎00017" summary=".">
+      <created>1607764197420</created>
+      <option name="number" value="LOCAL‎00017" />
+      <option name="presentableId" value="LOCAL‎00017" />
+      <updated>1607764197421</updated>
+    </task>
+    <task id="LOCAL‎00018" summary="optimized moving algorithm">
+      <created>1607769274469</created>
+      <option name="number" value="LOCAL‎00018" />
+      <option name="presentableId" value="LOCAL‎00018" />
+      <updated>1607769274470</updated>
+    </task>
+    <task id="LOCAL‎00019" summary="optimized moving algorithm 2">
+      <created>1607781478146</created>
+      <option name="number" value="LOCAL‎00019" />
+      <option name="presentableId" value="LOCAL‎00019" />
+      <updated>1607781478147</updated>
+    </task>
+    <task id="LOCAL‎00020" summary="optimized moving algorithm 3">
+      <created>1607790769676</created>
+      <option name="number" value="LOCAL‎00020" />
+      <option name="presentableId" value="LOCAL‎00020" />
+      <updated>1607790769677</updated>
+    </task>
+    <task id="LOCAL‎00021" summary="optimized moving algorithm 4">
+      <created>1607803818483</created>
+      <option name="number" value="LOCAL‎00021" />
+      <option name="presentableId" value="LOCAL‎00021" />
+      <updated>1607803818483</updated>
+    </task>
+    <task id="LOCAL‎00022" summary="optimized moving algorithm 5">
+      <created>1607809490509</created>
+      <option name="number" value="LOCAL‎00022" />
+      <option name="presentableId" value="LOCAL‎00022" />
+      <updated>1607809490511</updated>
+    </task>
+    <task id="LOCAL‎00023" summary="significant GUI improves">
+      <created>1607858168879</created>
+      <option name="number" value="LOCAL‎00023" />
+      <option name="presentableId" value="LOCAL‎00023" />
+      <updated>1607858168881</updated>
+    </task>
+    <task id="LOCAL‎00024" summary="significant GUI improves">
+      <created>1607899739141</created>
+      <option name="number" value="LOCAL‎00024" />
+      <option name="presentableId" value="LOCAL‎00024" />
+      <updated>1607899739141</updated>
+    </task>
+    <task id="LOCAL‎00025" summary="significant GUI improves">
+      <created>1607900377813</created>
+      <option name="number" value="LOCAL‎00025" />
+      <option name="presentableId" value="LOCAL‎00025" />
+      <updated>1607900377813</updated>
+    </task>
+    <task id="LOCAL‎00026" summary="rearranging project">
+      <created>1607902758115</created>
+      <option name="number" value="LOCAL‎00026" />
+      <option name="presentableId" value="LOCAL‎00026" />
+      <updated>1607902758115</updated>
+    </task>
+    <task id="LOCAL‎00027" summary="decreasing the number of moves 1">
+      <created>1607940313383</created>
+      <option name="number" value="LOCAL‎00027" />
+      <option name="presentableId" value="LOCAL‎00027" />
+      <updated>1607940313383</updated>
+    </task>
+    <task id="LOCAL‎00028" summary="decreasing the number of moves 2">
+      <created>1607941542130</created>
+      <option name="number" value="LOCAL‎00028" />
+      <option name="presentableId" value="LOCAL‎00028" />
+      <updated>1607941542130</updated>
+    </task>
+    <task id="LOCAL‎00029" summary="added screenshots">
+      <created>1607960071485</created>
+      <option name="number" value="LOCAL‎00029" />
+      <option name="presentableId" value="LOCAL‎00029" />
+      <updated>1607960071485</updated>
+    </task>
+    <task id="LOCAL‎00030" summary="added entrance screen before game">
+      <created>1608032500193</created>
+      <option name="number" value="LOCAL‎00030" />
+      <option name="presentableId" value="LOCAL‎00030" />
+      <updated>1608032500194</updated>
+    </task>
+    <task id="LOCAL‎00031" summary="added entrance screen before game2">
+      <created>1608036438370</created>
+      <option name="number" value="LOCAL‎00031" />
+      <option name="presentableId" value="LOCAL‎00031" />
+      <updated>1608036438370</updated>
+    </task>
+    <task id="LOCAL‎00032" summary="added entrance screen before game and some improvements">
+      <created>1608046220972</created>
+      <option name="number" value="LOCAL‎00032" />
+      <option name="presentableId" value="LOCAL‎00032" />
+      <updated>1608046220973</updated>
+    </task>
+    <task id="LOCAL‎00033" summary="added entrance screen before game and some improvements">
+      <created>1608046538648</created>
+      <option name="number" value="LOCAL‎00033" />
+      <option name="presentableId" value="LOCAL‎00033" />
+      <updated>1608046538653</updated>
+    </task>
+    <task id="LOCAL‎00034" summary="updating images">
+      <created>1608046664418</created>
+      <option name="number" value="LOCAL‎00034" />
+      <option name="presentableId" value="LOCAL‎00034" />
+      <updated>1608046664418</updated>
+    </task>
+    <task id="LOCAL‎00035" summary="updating images">
+      <created>1608048201946</created>
+      <option name="number" value="LOCAL‎00035" />
+      <option name="presentableId" value="LOCAL‎00035" />
+      <updated>1608048201947</updated>
+    </task>
+    <task id="LOCAL‎00036" summary="updating images">
+      <created>1608048212802</created>
+      <option name="number" value="LOCAL‎00036" />
+      <option name="presentableId" value="LOCAL‎00036" />
+      <updated>1608048212802</updated>
+    </task>
+    <task id="LOCAL‎00037" summary="Eyal's last commit">
+      <created>1608276546948</created>
+      <option name="number" value="LOCAL‎00037" />
+      <option name="presentableId" value="LOCAL‎00037" />
+      <updated>1608276546948</updated>
+    </task>
+    <task id="LOCAL‎00038" summary="Eyal's last commit">
+      <created>1608276937328</created>
+      <option name="number" value="LOCAL‎00038" />
+      <option name="presentableId" value="LOCAL‎00038" />
+      <updated>1608276937330</updated>
+    </task>
+    <task id="LOCAL‎00039" summary="del">
+      <created>1608373530734</created>
+      <option name="number" value="LOCAL‎00039" />
+      <option name="presentableId" value="LOCAL‎00039" />
+      <updated>1608373530734</updated>
+    </task>
+    <task id="LOCAL‎00040" summary="MyFrame cleaned">
+      <created>1608484724826</created>
+      <option name="number" value="LOCAL‎00040" />
+      <option name="presentableId" value="LOCAL‎00040" />
+      <updated>1608484724826</updated>
+    </task>
+    <task id="LOCAL‎00041" summary="final version">
+      <created>1608496227612</created>
+      <option name="number" value="LOCAL‎00041" />
+      <option name="presentableId" value="LOCAL‎00041" />
+      <updated>1608496227612</updated>
+    </task>
+    <task id="LOCAL‎00042" summary="final version">
+      <created>1608496790186</created>
+      <option name="number" value="LOCAL‎00042" />
+      <option name="presentableId" value="LOCAL‎00042" />
+      <updated>1608496790186</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="shortestPath list" />
+    <MESSAGE value="start Ex2" />
+    <MESSAGE value="small changes" />
+    <MESSAGE value="made Gui" />
+    <MESSAGE value="choose next" />
+    <MESSAGE value="1" />
+    <MESSAGE value="." />
+    <MESSAGE value="optimized moving algorithm" />
+    <MESSAGE value="optimized moving algorithm 2" />
+    <MESSAGE value="optimized moving algorithm 3" />
+    <MESSAGE value="optimized moving algorithm 4" />
+    <MESSAGE value="optimized moving algorithm 5" />
+    <MESSAGE value="significant GUI improves" />
+    <MESSAGE value="rearranging project" />
+    <MESSAGE value="decreasing the number of moves 1" />
+    <MESSAGE value="decreasing the number of moves 2" />
+    <MESSAGE value="added screenshots" />
+    <MESSAGE value="added entrance screen before game" />
+    <MESSAGE value="added entrance screen before game2" />
+    <MESSAGE value="added entrance screen before game and some improvements" />
+    <MESSAGE value="updating images" />
+    <MESSAGE value="Eyal's last commit" />
+    <MESSAGE value="del" />
+    <MESSAGE value="MyFrame cleaned" />
+    <MESSAGE value="final version" />
+    <option name="LAST_COMMIT_MESSAGE" value="final version" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/EX2$DWGraph_AlgoTest_shortestPathDist.ic" NAME="DWGraph_AlgoTest.shortestPathDist Coverage Results" MODIFIED="1606731629799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>api.*</FILTER>
+    </SUITE>
+  </component>
+</project>
